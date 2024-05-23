@@ -1407,10 +1407,6 @@ body {
     margin: 0px 200px 50px;
   }
 
-  .choose__header {
-    margin-bottom: 50px;
-  }
-
   .menu-block {
     margin: 29px 31.5px 0px;
     gap: 10px;
@@ -1687,6 +1683,10 @@ body {
     letter-spacing: -0.16px;
     max-width: 114px;
     min-height: 33px;
+  }
+
+  .choose__header {
+    margin-bottom: 50px;
   }
 
   .menu-block__item {
